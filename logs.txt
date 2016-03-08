@@ -1,0 +1,29 @@
+commit 45a909b094340c7819808a88e3a23841f88af1bb
+Author: Luiss <santillan.itc@gmail.com>
+Date:   Tue Mar 8 10:12:58 2016 -0700
+
+    Conclusiones
+
+commit 6862a537018a1960aa4d7039c7bdb45ca679cbdb
+Author: Luiss <santillan.itc@gmail.com>
+Date:   Mon Mar 7 11:00:04 2016 -0700
+
+    Requisitos no funcionales
+
+commit e7fc4c4b22d2cd86e34ffe69e91ad85c5f67ec3b
+Author: Luiss <santillan.itc@gmail.com>
+Date:   Mon Mar 7 10:56:38 2016 -0700
+
+    Requisitos funcionales
+
+commit 1ad44cd40f63519dc693845349ddd1d48c1c2968
+Author: Luiss <santillan.itc@gmail.com>
+Date:   Mon Mar 7 10:53:36 2016 -0700
+
+    Titulo y descripcion del proyecto
+
+commit 088e564dd75346fd26fd6caba50a10a97b52ecea
+Author: Luiss <santillan.itc@gmail.com>
+Date:   Mon Mar 7 10:49:57 2016 -0700
+
+    Proyecto en blanco
