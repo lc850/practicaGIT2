@@ -26,6 +26,9 @@ ________________________________________
 Esta es una nueva rama del proyecto
 
 
+Otro commit de la rama prueba
+___________________________________
+Este commit solo se muestra en la rama prueba, posteriormente los vamos a fusionar con la rama master
 
 
 
