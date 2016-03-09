@@ -4,17 +4,18 @@ _____________________________________________
 Este sistema permite gestionar las actividades de control escolar,
 tales como captura de alumnos, calificaciones y boletas.
 
-Requisitos Funcionales
-_______________________________________________
+Requisitos Funcionaless
+____________________________________________
 1.- El sistema debe permitir el registro de alumnos
 2.- Es sistema debe mostrar reportes de alumnos dados de baja
 3.- El sistema debe permitir la captura de calificaciones
 
 Requisitos no funcionales
 _____________________________________________
-1.- El sistema debe de ser fácil de usar
-2.- El sistema debe manejar datos de manera segura
+1.- El sistema debe de ser fácil de usar-.
+2.- El sistema debe manejar datos de manera segura;
 3.- El sistema debe de estar disponible todo el tiempo.
+4.- dsfgdfgdf
 
 Conclusiones
 _____________________________________________
@@ -24,10 +25,11 @@ Informacion de la RAMA prueba
 ________________________________________
 
 Esta es una nueva rama del proyecto
+___________________________________________
 
 
 Otro commit de la rama prueba
-___________________________________
+_______________________________
 Este commit solo se muestra en la rama prueba, posteriormente los vamos a fusionar con la rama master
 
 
